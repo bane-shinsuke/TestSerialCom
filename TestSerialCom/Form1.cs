@@ -31,6 +31,9 @@ namespace TestSerialCom
 
 
             InputChar('n');
+
+
+            // comment
         }
 
 
